@@ -1,1 +1,21 @@
-https://velog.io/@trixie/series/%EA%B2%A8%EC%9A%B8%EB%B0%A9%ED%95%99%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-Lazy-Bird
+목표: 특정 키워드가 포함된 뉴스기사들을 신문사별로 모아서 한 페이지에 표시해주는 안드로이드 앱 만들기
+
+구상:
+![](https://velog.velcdn.com/images/trixie/post/0bc5b418-e84e-436f-97d0-0a2fa6a7b6fd/image.png)
+
+
+- 앱을 클릭하면 원하는 키워드가 적힌 버튼이 나옴
+- 키워드를 클릭시 신문사별로 관련 뉴스제목과 간단한 내용이 등장
+- 제목을 클릭시 해당 기사 링크로 이동한다 
+<br />
+
+공부해야할 것<br />
+- http protocol
+- html을 어떻게 parsing 할지
+- 유니코드 문자 인코딩
+- 이후 발생하는 문제에 대해서
+<br />
+
+프로젝트 진행 방법<br />
+- 해결해야 하는 문제를 작게 정의한 후 차례로 해결
+- 관련 공부한 내용들에 대해서 정리
